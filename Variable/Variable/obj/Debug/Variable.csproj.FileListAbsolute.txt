@@ -1,0 +1,7 @@
+Z:\Desktop\Shared Parallel\Variable\Variable\obj\Debug\Variable.csproj.AssemblyReference.cache
+Z:\Desktop\Shared Parallel\Variable\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
+Z:\Desktop\Shared Parallel\Variable\Variable\bin\Debug\Variable.exe.config
+Z:\Desktop\Shared Parallel\Variable\Variable\bin\Debug\Variable.exe
+Z:\Desktop\Shared Parallel\Variable\Variable\bin\Debug\Variable.pdb
+Z:\Desktop\Shared Parallel\Variable\Variable\obj\Debug\Variable.exe
+Z:\Desktop\Shared Parallel\Variable\Variable\obj\Debug\Variable.pdb
