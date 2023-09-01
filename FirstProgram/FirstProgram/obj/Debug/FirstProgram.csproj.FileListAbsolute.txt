@@ -1,0 +1,7 @@
+Z:\Desktop\Shared Parallel\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+Z:\Desktop\Shared Parallel\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+Z:\Desktop\Shared Parallel\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+Z:\Desktop\Shared Parallel\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.AssemblyReference.cache
+Z:\Desktop\Shared Parallel\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
+Z:\Desktop\Shared Parallel\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+Z:\Desktop\Shared Parallel\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
