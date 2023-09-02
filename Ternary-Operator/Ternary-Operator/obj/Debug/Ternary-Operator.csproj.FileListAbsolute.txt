@@ -1,7 +1,0 @@
-Z:\Desktop\Shared Parallel\Ternary-Operator\Ternary-Operator\bin\Debug\Ternary-Operator.exe.config
-Z:\Desktop\Shared Parallel\Ternary-Operator\Ternary-Operator\bin\Debug\Ternary-Operator.exe
-Z:\Desktop\Shared Parallel\Ternary-Operator\Ternary-Operator\bin\Debug\Ternary-Operator.pdb
-Z:\Desktop\Shared Parallel\Ternary-Operator\Ternary-Operator\obj\Debug\Ternary-Operator.csproj.AssemblyReference.cache
-Z:\Desktop\Shared Parallel\Ternary-Operator\Ternary-Operator\obj\Debug\Ternary-Operator.csproj.CoreCompileInputs.cache
-Z:\Desktop\Shared Parallel\Ternary-Operator\Ternary-Operator\obj\Debug\Ternary-Operator.exe
-Z:\Desktop\Shared Parallel\Ternary-Operator\Ternary-Operator\obj\Debug\Ternary-Operator.pdb
