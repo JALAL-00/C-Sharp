@@ -1,7 +1,0 @@
-Z:\Desktop\Shared Parallel\Increment-Decrement\Increment-Decrement\bin\Debug\Increment-Decrement.exe.config
-Z:\Desktop\Shared Parallel\Increment-Decrement\Increment-Decrement\bin\Debug\Increment-Decrement.exe
-Z:\Desktop\Shared Parallel\Increment-Decrement\Increment-Decrement\bin\Debug\Increment-Decrement.pdb
-Z:\Desktop\Shared Parallel\Increment-Decrement\Increment-Decrement\obj\Debug\Increment-Decrement.csproj.AssemblyReference.cache
-Z:\Desktop\Shared Parallel\Increment-Decrement\Increment-Decrement\obj\Debug\Increment-Decrement.csproj.CoreCompileInputs.cache
-Z:\Desktop\Shared Parallel\Increment-Decrement\Increment-Decrement\obj\Debug\Increment-Decrement.exe
-Z:\Desktop\Shared Parallel\Increment-Decrement\Increment-Decrement\obj\Debug\Increment-Decrement.pdb
