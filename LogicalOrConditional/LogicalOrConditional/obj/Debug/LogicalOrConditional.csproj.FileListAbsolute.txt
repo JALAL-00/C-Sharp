@@ -1,7 +1,0 @@
-Z:\Desktop\Shared Parallel\LogicalOrConditional\LogicalOrConditional\bin\Debug\LogicalOrConditional.exe.config
-Z:\Desktop\Shared Parallel\LogicalOrConditional\LogicalOrConditional\bin\Debug\LogicalOrConditional.exe
-Z:\Desktop\Shared Parallel\LogicalOrConditional\LogicalOrConditional\bin\Debug\LogicalOrConditional.pdb
-Z:\Desktop\Shared Parallel\LogicalOrConditional\LogicalOrConditional\obj\Debug\LogicalOrConditional.csproj.AssemblyReference.cache
-Z:\Desktop\Shared Parallel\LogicalOrConditional\LogicalOrConditional\obj\Debug\LogicalOrConditional.csproj.CoreCompileInputs.cache
-Z:\Desktop\Shared Parallel\LogicalOrConditional\LogicalOrConditional\obj\Debug\LogicalOrConditional.exe
-Z:\Desktop\Shared Parallel\LogicalOrConditional\LogicalOrConditional\obj\Debug\LogicalOrConditional.pdb
