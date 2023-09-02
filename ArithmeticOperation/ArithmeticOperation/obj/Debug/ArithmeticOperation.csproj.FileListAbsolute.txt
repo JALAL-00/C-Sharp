@@ -1,0 +1,7 @@
+Z:\Desktop\Shared Parallel\ArithmeticOperation\ArithmeticOperation\bin\Debug\ArithmeticOperation.exe.config
+Z:\Desktop\Shared Parallel\ArithmeticOperation\ArithmeticOperation\bin\Debug\ArithmeticOperation.exe
+Z:\Desktop\Shared Parallel\ArithmeticOperation\ArithmeticOperation\bin\Debug\ArithmeticOperation.pdb
+Z:\Desktop\Shared Parallel\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.csproj.AssemblyReference.cache
+Z:\Desktop\Shared Parallel\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.csproj.CoreCompileInputs.cache
+Z:\Desktop\Shared Parallel\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.exe
+Z:\Desktop\Shared Parallel\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.pdb
