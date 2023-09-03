@@ -1,0 +1,7 @@
+Z:\Desktop\Shared Parallel\UserInput\UserInput\bin\Debug\UserInput.exe.config
+Z:\Desktop\Shared Parallel\UserInput\UserInput\bin\Debug\UserInput.exe
+Z:\Desktop\Shared Parallel\UserInput\UserInput\bin\Debug\UserInput.pdb
+Z:\Desktop\Shared Parallel\UserInput\UserInput\obj\Debug\UserInput.csproj.AssemblyReference.cache
+Z:\Desktop\Shared Parallel\UserInput\UserInput\obj\Debug\UserInput.csproj.CoreCompileInputs.cache
+Z:\Desktop\Shared Parallel\UserInput\UserInput\obj\Debug\UserInput.exe
+Z:\Desktop\Shared Parallel\UserInput\UserInput\obj\Debug\UserInput.pdb
