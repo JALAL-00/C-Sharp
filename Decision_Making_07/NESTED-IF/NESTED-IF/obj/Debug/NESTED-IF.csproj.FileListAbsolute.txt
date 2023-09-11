@@ -1,0 +1,7 @@
+Z:\Desktop\Shared Parallel\C-Sharp\Decision_Making_06\NESTED-IF\NESTED-IF\bin\Debug\NESTED-IF.exe.config
+Z:\Desktop\Shared Parallel\C-Sharp\Decision_Making_06\NESTED-IF\NESTED-IF\bin\Debug\NESTED-IF.exe
+Z:\Desktop\Shared Parallel\C-Sharp\Decision_Making_06\NESTED-IF\NESTED-IF\bin\Debug\NESTED-IF.pdb
+Z:\Desktop\Shared Parallel\C-Sharp\Decision_Making_06\NESTED-IF\NESTED-IF\obj\Debug\NESTED-IF.csproj.AssemblyReference.cache
+Z:\Desktop\Shared Parallel\C-Sharp\Decision_Making_06\NESTED-IF\NESTED-IF\obj\Debug\NESTED-IF.csproj.CoreCompileInputs.cache
+Z:\Desktop\Shared Parallel\C-Sharp\Decision_Making_06\NESTED-IF\NESTED-IF\obj\Debug\NESTED-IF.exe
+Z:\Desktop\Shared Parallel\C-Sharp\Decision_Making_06\NESTED-IF\NESTED-IF\obj\Debug\NESTED-IF.pdb

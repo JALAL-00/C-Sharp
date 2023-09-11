@@ -1,0 +1,7 @@
+Z:\Desktop\Shared Parallel\C-Sharp\Decision_Making_06\IF-ELSE\IF-ELSE\bin\Debug\IF-ELSE.exe.config
+Z:\Desktop\Shared Parallel\C-Sharp\Decision_Making_06\IF-ELSE\IF-ELSE\bin\Debug\IF-ELSE.exe
+Z:\Desktop\Shared Parallel\C-Sharp\Decision_Making_06\IF-ELSE\IF-ELSE\bin\Debug\IF-ELSE.pdb
+Z:\Desktop\Shared Parallel\C-Sharp\Decision_Making_06\IF-ELSE\IF-ELSE\obj\Debug\IF-ELSE.csproj.AssemblyReference.cache
+Z:\Desktop\Shared Parallel\C-Sharp\Decision_Making_06\IF-ELSE\IF-ELSE\obj\Debug\IF-ELSE.csproj.CoreCompileInputs.cache
+Z:\Desktop\Shared Parallel\C-Sharp\Decision_Making_06\IF-ELSE\IF-ELSE\obj\Debug\IF-ELSE.exe
+Z:\Desktop\Shared Parallel\C-Sharp\Decision_Making_06\IF-ELSE\IF-ELSE\obj\Debug\IF-ELSE.pdb
