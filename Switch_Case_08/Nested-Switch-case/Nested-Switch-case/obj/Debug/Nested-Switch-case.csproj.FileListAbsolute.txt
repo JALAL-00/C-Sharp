@@ -1,0 +1,7 @@
+Z:\Desktop\Shared Parallel\C-Sharp\Switch_Case_07\Nested-Switch-case\Nested-Switch-case\bin\Debug\Nested-Switch-case.exe.config
+Z:\Desktop\Shared Parallel\C-Sharp\Switch_Case_07\Nested-Switch-case\Nested-Switch-case\bin\Debug\Nested-Switch-case.exe
+Z:\Desktop\Shared Parallel\C-Sharp\Switch_Case_07\Nested-Switch-case\Nested-Switch-case\bin\Debug\Nested-Switch-case.pdb
+Z:\Desktop\Shared Parallel\C-Sharp\Switch_Case_07\Nested-Switch-case\Nested-Switch-case\obj\Debug\Nested-Switch-case.csproj.AssemblyReference.cache
+Z:\Desktop\Shared Parallel\C-Sharp\Switch_Case_07\Nested-Switch-case\Nested-Switch-case\obj\Debug\Nested-Switch-case.csproj.CoreCompileInputs.cache
+Z:\Desktop\Shared Parallel\C-Sharp\Switch_Case_07\Nested-Switch-case\Nested-Switch-case\obj\Debug\Nested-Switch-case.exe
+Z:\Desktop\Shared Parallel\C-Sharp\Switch_Case_07\Nested-Switch-case\Nested-Switch-case\obj\Debug\Nested-Switch-case.pdb

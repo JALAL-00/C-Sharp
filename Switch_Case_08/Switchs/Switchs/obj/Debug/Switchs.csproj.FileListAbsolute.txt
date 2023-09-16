@@ -1,0 +1,7 @@
+Z:\Desktop\Shared Parallel\Switchs\Switchs\bin\Debug\Switchs.exe.config
+Z:\Desktop\Shared Parallel\Switchs\Switchs\bin\Debug\Switchs.exe
+Z:\Desktop\Shared Parallel\Switchs\Switchs\bin\Debug\Switchs.pdb
+Z:\Desktop\Shared Parallel\Switchs\Switchs\obj\Debug\Switchs.csproj.AssemblyReference.cache
+Z:\Desktop\Shared Parallel\Switchs\Switchs\obj\Debug\Switchs.csproj.CoreCompileInputs.cache
+Z:\Desktop\Shared Parallel\Switchs\Switchs\obj\Debug\Switchs.exe
+Z:\Desktop\Shared Parallel\Switchs\Switchs\obj\Debug\Switchs.pdb

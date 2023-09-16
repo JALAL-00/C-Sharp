@@ -1,0 +1,7 @@
+Z:\Desktop\Shared Parallel\C-Sharp\Switch_Case_07\Switch-Case\Switch-Case\bin\Debug\Switch-Case.exe.config
+Z:\Desktop\Shared Parallel\C-Sharp\Switch_Case_07\Switch-Case\Switch-Case\bin\Debug\Switch-Case.exe
+Z:\Desktop\Shared Parallel\C-Sharp\Switch_Case_07\Switch-Case\Switch-Case\bin\Debug\Switch-Case.pdb
+Z:\Desktop\Shared Parallel\C-Sharp\Switch_Case_07\Switch-Case\Switch-Case\obj\Debug\Switch-Case.csproj.AssemblyReference.cache
+Z:\Desktop\Shared Parallel\C-Sharp\Switch_Case_07\Switch-Case\Switch-Case\obj\Debug\Switch-Case.csproj.CoreCompileInputs.cache
+Z:\Desktop\Shared Parallel\C-Sharp\Switch_Case_07\Switch-Case\Switch-Case\obj\Debug\Switch-Case.exe
+Z:\Desktop\Shared Parallel\C-Sharp\Switch_Case_07\Switch-Case\Switch-Case\obj\Debug\Switch-Case.pdb
