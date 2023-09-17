@@ -1,0 +1,7 @@
+Z:\Desktop\Shared Parallel\String\String\bin\Debug\String.exe.config
+Z:\Desktop\Shared Parallel\String\String\bin\Debug\String.exe
+Z:\Desktop\Shared Parallel\String\String\bin\Debug\String.pdb
+Z:\Desktop\Shared Parallel\String\String\obj\Debug\String.csproj.AssemblyReference.cache
+Z:\Desktop\Shared Parallel\String\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+Z:\Desktop\Shared Parallel\String\String\obj\Debug\String.exe
+Z:\Desktop\Shared Parallel\String\String\obj\Debug\String.pdb
