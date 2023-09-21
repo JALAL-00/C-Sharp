@@ -1,0 +1,7 @@
+Z:\Desktop\Shared Parallel\MathBasic\MathBasic\bin\Debug\MathBasic.exe.config
+Z:\Desktop\Shared Parallel\MathBasic\MathBasic\bin\Debug\MathBasic.exe
+Z:\Desktop\Shared Parallel\MathBasic\MathBasic\bin\Debug\MathBasic.pdb
+Z:\Desktop\Shared Parallel\MathBasic\MathBasic\obj\Debug\MathBasic.csproj.AssemblyReference.cache
+Z:\Desktop\Shared Parallel\MathBasic\MathBasic\obj\Debug\MathBasic.csproj.CoreCompileInputs.cache
+Z:\Desktop\Shared Parallel\MathBasic\MathBasic\obj\Debug\MathBasic.exe
+Z:\Desktop\Shared Parallel\MathBasic\MathBasic\obj\Debug\MathBasic.pdb
