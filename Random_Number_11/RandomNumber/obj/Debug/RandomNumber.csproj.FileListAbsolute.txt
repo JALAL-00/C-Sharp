@@ -1,0 +1,7 @@
+Z:\Desktop\Shared Parallel\RandomNumber\RandomNumber\bin\Debug\RandomNumber.exe.config
+Z:\Desktop\Shared Parallel\RandomNumber\RandomNumber\bin\Debug\RandomNumber.exe
+Z:\Desktop\Shared Parallel\RandomNumber\RandomNumber\bin\Debug\RandomNumber.pdb
+Z:\Desktop\Shared Parallel\RandomNumber\RandomNumber\obj\Debug\RandomNumber.csproj.AssemblyReference.cache
+Z:\Desktop\Shared Parallel\RandomNumber\RandomNumber\obj\Debug\RandomNumber.csproj.CoreCompileInputs.cache
+Z:\Desktop\Shared Parallel\RandomNumber\RandomNumber\obj\Debug\RandomNumber.exe
+Z:\Desktop\Shared Parallel\RandomNumber\RandomNumber\obj\Debug\RandomNumber.pdb
