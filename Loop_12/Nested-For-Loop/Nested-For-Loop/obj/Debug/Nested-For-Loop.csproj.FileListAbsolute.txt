@@ -1,0 +1,7 @@
+Y:\Desktop\Shared Parallel\C-Sharp\Nested-For-Loop\Nested-For-Loop\bin\Debug\Nested-For-Loop.exe.config
+Y:\Desktop\Shared Parallel\C-Sharp\Nested-For-Loop\Nested-For-Loop\bin\Debug\Nested-For-Loop.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Nested-For-Loop\Nested-For-Loop\bin\Debug\Nested-For-Loop.pdb
+Y:\Desktop\Shared Parallel\C-Sharp\Nested-For-Loop\Nested-For-Loop\obj\Debug\Nested-For-Loop.csproj.AssemblyReference.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Nested-For-Loop\Nested-For-Loop\obj\Debug\Nested-For-Loop.csproj.CoreCompileInputs.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Nested-For-Loop\Nested-For-Loop\obj\Debug\Nested-For-Loop.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Nested-For-Loop\Nested-For-Loop\obj\Debug\Nested-For-Loop.pdb

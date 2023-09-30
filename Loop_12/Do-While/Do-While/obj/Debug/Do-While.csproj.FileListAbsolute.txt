@@ -1,0 +1,7 @@
+Y:\Desktop\Shared Parallel\C-Sharp\Do-While\Do-While\bin\Debug\Do-While.exe.config
+Y:\Desktop\Shared Parallel\C-Sharp\Do-While\Do-While\bin\Debug\Do-While.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Do-While\Do-While\bin\Debug\Do-While.pdb
+Y:\Desktop\Shared Parallel\C-Sharp\Do-While\Do-While\obj\Debug\Do-While.csproj.AssemblyReference.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Do-While\Do-While\obj\Debug\Do-While.csproj.CoreCompileInputs.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Do-While\Do-While\obj\Debug\Do-While.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Do-While\Do-While\obj\Debug\Do-While.pdb
