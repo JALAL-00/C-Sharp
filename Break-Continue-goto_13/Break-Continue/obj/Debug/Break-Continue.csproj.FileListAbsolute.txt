@@ -1,0 +1,7 @@
+Y:\Desktop\Shared Parallel\C-Sharp\Break-Continue\Break-Continue\bin\Debug\Break-Continue.exe.config
+Y:\Desktop\Shared Parallel\C-Sharp\Break-Continue\Break-Continue\bin\Debug\Break-Continue.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Break-Continue\Break-Continue\bin\Debug\Break-Continue.pdb
+Y:\Desktop\Shared Parallel\C-Sharp\Break-Continue\Break-Continue\obj\Debug\Break-Continue.csproj.AssemblyReference.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Break-Continue\Break-Continue\obj\Debug\Break-Continue.csproj.CoreCompileInputs.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Break-Continue\Break-Continue\obj\Debug\Break-Continue.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Break-Continue\Break-Continue\obj\Debug\Break-Continue.pdb
