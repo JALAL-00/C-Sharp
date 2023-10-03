@@ -1,0 +1,7 @@
+Y:\Desktop\Shared Parallel\C-Sharp\Restarting\Restarting\bin\Debug\Restarting.exe.config
+Y:\Desktop\Shared Parallel\C-Sharp\Restarting\Restarting\bin\Debug\Restarting.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Restarting\Restarting\bin\Debug\Restarting.pdb
+Y:\Desktop\Shared Parallel\C-Sharp\Restarting\Restarting\obj\Debug\Restarting.csproj.AssemblyReference.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Restarting\Restarting\obj\Debug\Restarting.csproj.CoreCompileInputs.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Restarting\Restarting\obj\Debug\Restarting.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Restarting\Restarting\obj\Debug\Restarting.pdb
