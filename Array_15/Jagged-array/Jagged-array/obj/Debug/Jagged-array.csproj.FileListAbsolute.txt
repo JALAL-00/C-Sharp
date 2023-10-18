@@ -1,0 +1,7 @@
+Y:\Desktop\Shared Parallel\C-Sharp\Jagged-array\Jagged-array\bin\Debug\Jagged-array.exe.config
+Y:\Desktop\Shared Parallel\C-Sharp\Jagged-array\Jagged-array\bin\Debug\Jagged-array.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Jagged-array\Jagged-array\bin\Debug\Jagged-array.pdb
+Y:\Desktop\Shared Parallel\C-Sharp\Jagged-array\Jagged-array\obj\Debug\Jagged-array.csproj.AssemblyReference.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Jagged-array\Jagged-array\obj\Debug\Jagged-array.csproj.CoreCompileInputs.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Jagged-array\Jagged-array\obj\Debug\Jagged-array.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Jagged-array\Jagged-array\obj\Debug\Jagged-array.pdb

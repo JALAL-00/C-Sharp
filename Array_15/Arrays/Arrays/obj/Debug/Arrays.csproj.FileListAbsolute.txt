@@ -1,0 +1,7 @@
+Y:\Desktop\Shared Parallel\C-Sharp\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Arrays\Arrays\bin\Debug\Arrays.exe.config
+Y:\Desktop\Shared Parallel\C-Sharp\Arrays\Arrays\bin\Debug\Arrays.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Arrays\Arrays\bin\Debug\Arrays.pdb
+Y:\Desktop\Shared Parallel\C-Sharp\Arrays\Arrays\obj\Debug\Arrays.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Arrays\Arrays\obj\Debug\Arrays.pdb

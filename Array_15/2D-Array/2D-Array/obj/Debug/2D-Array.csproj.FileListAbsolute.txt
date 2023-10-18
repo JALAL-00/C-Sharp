@@ -1,0 +1,7 @@
+Y:\Desktop\Shared Parallel\C-Sharp\2D-Array\2D-Array\bin\Debug\2D-Array.exe.config
+Y:\Desktop\Shared Parallel\C-Sharp\2D-Array\2D-Array\bin\Debug\2D-Array.exe
+Y:\Desktop\Shared Parallel\C-Sharp\2D-Array\2D-Array\bin\Debug\2D-Array.pdb
+Y:\Desktop\Shared Parallel\C-Sharp\2D-Array\2D-Array\obj\Debug\2D-Array.csproj.AssemblyReference.cache
+Y:\Desktop\Shared Parallel\C-Sharp\2D-Array\2D-Array\obj\Debug\2D-Array.csproj.CoreCompileInputs.cache
+Y:\Desktop\Shared Parallel\C-Sharp\2D-Array\2D-Array\obj\Debug\2D-Array.exe
+Y:\Desktop\Shared Parallel\C-Sharp\2D-Array\2D-Array\obj\Debug\2D-Array.pdb
