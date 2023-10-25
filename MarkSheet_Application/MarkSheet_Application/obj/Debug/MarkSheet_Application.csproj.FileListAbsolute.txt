@@ -1,0 +1,7 @@
+Y:\Desktop\Shared Parallel\C-Sharp\MarkSheet_Application\MarkSheet_Application\bin\Debug\MarkSheet_Application.exe.config
+Y:\Desktop\Shared Parallel\C-Sharp\MarkSheet_Application\MarkSheet_Application\bin\Debug\MarkSheet_Application.exe
+Y:\Desktop\Shared Parallel\C-Sharp\MarkSheet_Application\MarkSheet_Application\bin\Debug\MarkSheet_Application.pdb
+Y:\Desktop\Shared Parallel\C-Sharp\MarkSheet_Application\MarkSheet_Application\obj\Debug\MarkSheet_Application.csproj.AssemblyReference.cache
+Y:\Desktop\Shared Parallel\C-Sharp\MarkSheet_Application\MarkSheet_Application\obj\Debug\MarkSheet_Application.csproj.CoreCompileInputs.cache
+Y:\Desktop\Shared Parallel\C-Sharp\MarkSheet_Application\MarkSheet_Application\obj\Debug\MarkSheet_Application.exe
+Y:\Desktop\Shared Parallel\C-Sharp\MarkSheet_Application\MarkSheet_Application\obj\Debug\MarkSheet_Application.pdb
