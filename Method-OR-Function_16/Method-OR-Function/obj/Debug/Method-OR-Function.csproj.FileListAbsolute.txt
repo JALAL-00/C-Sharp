@@ -1,0 +1,7 @@
+Y:\Desktop\Shared Parallel\C-Sharp\Method-OR-Function\Method-OR-Function\obj\Debug\Method-OR-Function.csproj.AssemblyReference.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Method-OR-Function\Method-OR-Function\obj\Debug\Method-OR-Function.csproj.CoreCompileInputs.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Method-OR-Function\Method-OR-Function\bin\Debug\Method-OR-Function.exe.config
+Y:\Desktop\Shared Parallel\C-Sharp\Method-OR-Function\Method-OR-Function\bin\Debug\Method-OR-Function.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Method-OR-Function\Method-OR-Function\bin\Debug\Method-OR-Function.pdb
+Y:\Desktop\Shared Parallel\C-Sharp\Method-OR-Function\Method-OR-Function\obj\Debug\Method-OR-Function.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Method-OR-Function\Method-OR-Function\obj\Debug\Method-OR-Function.pdb
