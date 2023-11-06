@@ -1,0 +1,7 @@
+Y:\Desktop\Shared Parallel\C-Sharp\Constructor_21\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Constructor_21\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Constructor_21\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+Y:\Desktop\Shared Parallel\C-Sharp\Constructor_21\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Constructor_21\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+Y:\Desktop\Shared Parallel\C-Sharp\Constructor_21\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Constructor_21\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
