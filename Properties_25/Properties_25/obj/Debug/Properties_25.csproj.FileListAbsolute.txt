@@ -1,0 +1,7 @@
+Y:\Desktop\Shared Parallel\LAB\Properties_25\Properties_25\obj\Debug\Properties_25.csproj.AssemblyReference.cache
+Y:\Desktop\Shared Parallel\LAB\Properties_25\Properties_25\obj\Debug\Properties_25.csproj.CoreCompileInputs.cache
+Y:\Desktop\Shared Parallel\LAB\Properties_25\Properties_25\bin\Debug\Properties_25.exe.config
+Y:\Desktop\Shared Parallel\LAB\Properties_25\Properties_25\bin\Debug\Properties_25.exe
+Y:\Desktop\Shared Parallel\LAB\Properties_25\Properties_25\bin\Debug\Properties_25.pdb
+Y:\Desktop\Shared Parallel\LAB\Properties_25\Properties_25\obj\Debug\Properties_25.exe
+Y:\Desktop\Shared Parallel\LAB\Properties_25\Properties_25\obj\Debug\Properties_25.pdb
