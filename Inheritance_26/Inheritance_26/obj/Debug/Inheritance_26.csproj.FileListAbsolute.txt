@@ -1,0 +1,7 @@
+Y:\Desktop\Shared Parallel\C-Sharp\Inheritance_26\Inheritance_26\bin\Debug\Inheritance_26.exe.config
+Y:\Desktop\Shared Parallel\C-Sharp\Inheritance_26\Inheritance_26\bin\Debug\Inheritance_26.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Inheritance_26\Inheritance_26\bin\Debug\Inheritance_26.pdb
+Y:\Desktop\Shared Parallel\C-Sharp\Inheritance_26\Inheritance_26\obj\Debug\Inheritance_26.csproj.AssemblyReference.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Inheritance_26\Inheritance_26\obj\Debug\Inheritance_26.csproj.CoreCompileInputs.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Inheritance_26\Inheritance_26\obj\Debug\Inheritance_26.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Inheritance_26\Inheritance_26\obj\Debug\Inheritance_26.pdb
