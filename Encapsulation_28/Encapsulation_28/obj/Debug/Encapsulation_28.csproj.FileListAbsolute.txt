@@ -1,0 +1,7 @@
+Y:\Desktop\Shared Parallel\C-Sharp\Encapsulation_28\Encapsulation_28\bin\Debug\Encapsulation_28.exe.config
+Y:\Desktop\Shared Parallel\C-Sharp\Encapsulation_28\Encapsulation_28\bin\Debug\Encapsulation_28.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Encapsulation_28\Encapsulation_28\bin\Debug\Encapsulation_28.pdb
+Y:\Desktop\Shared Parallel\C-Sharp\Encapsulation_28\Encapsulation_28\obj\Debug\Encapsulation_28.csproj.AssemblyReference.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Encapsulation_28\Encapsulation_28\obj\Debug\Encapsulation_28.csproj.CoreCompileInputs.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Encapsulation_28\Encapsulation_28\obj\Debug\Encapsulation_28.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Encapsulation_28\Encapsulation_28\obj\Debug\Encapsulation_28.pdb
