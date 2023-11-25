@@ -1,0 +1,7 @@
+Y:\Desktop\Shared Parallel\C-Sharp\Polymorphism_Static_29\Polymorphism_Static_29\bin\Debug\Polymorphism_Static_29.exe.config
+Y:\Desktop\Shared Parallel\C-Sharp\Polymorphism_Static_29\Polymorphism_Static_29\bin\Debug\Polymorphism_Static_29.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Polymorphism_Static_29\Polymorphism_Static_29\bin\Debug\Polymorphism_Static_29.pdb
+Y:\Desktop\Shared Parallel\C-Sharp\Polymorphism_Static_29\Polymorphism_Static_29\obj\Debug\Polymorphism_Static_29.csproj.AssemblyReference.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Polymorphism_Static_29\Polymorphism_Static_29\obj\Debug\Polymorphism_Static_29.csproj.CoreCompileInputs.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Polymorphism_Static_29\Polymorphism_Static_29\obj\Debug\Polymorphism_Static_29.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Polymorphism_Static_29\Polymorphism_Static_29\obj\Debug\Polymorphism_Static_29.pdb
