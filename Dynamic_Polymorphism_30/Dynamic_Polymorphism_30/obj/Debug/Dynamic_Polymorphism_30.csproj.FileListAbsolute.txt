@@ -1,0 +1,7 @@
+Y:\Desktop\Shared Parallel\C-Sharp\Dynamic_Polymorphism_30\Dynamic_Polymorphism_30\bin\Debug\Dynamic_Polymorphism_30.exe.config
+Y:\Desktop\Shared Parallel\C-Sharp\Dynamic_Polymorphism_30\Dynamic_Polymorphism_30\bin\Debug\Dynamic_Polymorphism_30.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Dynamic_Polymorphism_30\Dynamic_Polymorphism_30\bin\Debug\Dynamic_Polymorphism_30.pdb
+Y:\Desktop\Shared Parallel\C-Sharp\Dynamic_Polymorphism_30\Dynamic_Polymorphism_30\obj\Debug\Dynamic_Polymorphism_30.csproj.AssemblyReference.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Dynamic_Polymorphism_30\Dynamic_Polymorphism_30\obj\Debug\Dynamic_Polymorphism_30.csproj.CoreCompileInputs.cache
+Y:\Desktop\Shared Parallel\C-Sharp\Dynamic_Polymorphism_30\Dynamic_Polymorphism_30\obj\Debug\Dynamic_Polymorphism_30.exe
+Y:\Desktop\Shared Parallel\C-Sharp\Dynamic_Polymorphism_30\Dynamic_Polymorphism_30\obj\Debug\Dynamic_Polymorphism_30.pdb
